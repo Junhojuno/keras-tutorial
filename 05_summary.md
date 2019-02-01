@@ -11,8 +11,8 @@
 | Pooling/sub-sampling | 특성 맵의 크기를 줄이는 과정 |
 | Data Augmentation | 학습 데이터가 적을 때, overfitting을 막기위해 데이터를 늘리는 기법 |
 | Pre-Trained Network | 이미 학습된 network의 특성을 가져와 사용하였다. ; 여기선 VGG16 |
-| Feature Extraction |  |
-| Fine-Tuning |  |
+| Feature Extraction | pre-trained network의 합성곱 layer를 사용 (training X) |
+| Fine-Tuning | pre-trained network의 합성곱 layer 상위층 일부를 FCN과 함께 재훈련시키는 것 |
 
 ### Fully Connected Layer (FCN) vs Convolutional Neural Network (CNN)
 - 이전 FCN으로 MNIST 분류를 했을 때, 테스트 정확도는 97%정도였다.(CNN은 99%)
