@@ -10,6 +10,7 @@
 | One-Hot Encoding |
 | Embedding |
 | RNN |
+| CPU vs GPU |
 | LSTM |
 | Generator function |
 | GRU |
@@ -81,6 +82,7 @@
 - RNN network가 sequence의 원소를 차례대로 방문한다.(sequence가 한번에 처리되지 않음)
 - (timesteps, input_features)인 2D tensor를 입력으로 받는다. --> (batch_size, timesteps, input_features)로 들어가겠지?
 - timestep마다 동일한 weight가 적용된다.(timestep마다 동일한 RNN레이어를 들어가니 어찌보면 당연한 얘기)
+- LSTM, GRU에서 time series데이터를 training시키면서 CPU가 GPU보다 빠름을 알았다.
 
 ### IMDB Modeling (2) : 전체 데이터
   ##### 4. Embedding layer + SimpleRNN layer + dense layer(출력)
