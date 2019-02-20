@@ -18,3 +18,4 @@
   - GRU로 온도 예측 : [Jena Climate 예제]()
   - Staking RNN : [Jena Climate 예제]()
   - Bidirectional RNN : [IMDB 예제]()
+  - 1D ConvNet : [IMDB ]()
