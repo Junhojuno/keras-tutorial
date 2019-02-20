@@ -11,4 +11,10 @@
   - Small + Pre-Trained Model : [VGG16](https://github.com/Junhojuno/keras-tutorial/blob/master/05_pretrained_network(VGG16).ipynb)
   - Small + Pre-Trained Model + Fine-Tuning : [Fine-Tuning](https://github.com/Junhojuno/keras-tutorial/blob/master/05_fine_tuning.ipynb)
   
-### 6장 : 시퀀스 데이터를 위한 
+### 6장 : 시퀀스 데이터를 위한 딥러닝
+  - FCN으로 텍스트 분류 : [IMDB 예제]()
+  - SimpleRNN 사용하여 분류 : [IMDB 예제]()
+  - LSTM 사용하여 분류 : [IMDB 예제]()
+  - GRU로 온도 예측 : [Jena Climate 예제]()
+  - Staking RNN : [Jena Climate 예제]()
+  - Bidirectional RNN : [IMDB 예제]()
