@@ -10,7 +10,7 @@
   - Small Dataset(CNN + Data Augmentation) : [cat and dogs 예제](https://github.com/Junhojuno/keras-tustorial/blob/master/05_Convnet_with_small_data_2.ipynb)
   - Small + Pre-Trained Model(VGG16) : [cat and dogs 예제](https://github.com/Junhojuno/keras-tutorial/blob/master/05_pretrained_network(VGG16).ipynb)
   - Small + Pre-Trained Model(VGG16) + Fine-Tuning : [cat and dogs 예제](https://github.com/Junhojuno/keras-tutorial/blob/master/05_fine_tuning.ipynb)
-  
+  - 5장 정리 : [Summary](https://github.com/Junhojuno/keras-tutorial/edit/master/05_summary.md)
 ### 6장 : 시퀀스 데이터를 위한 딥러닝
   - FCN으로 텍스트 분류 : [IMDB 예제]()
   - SimpleRNN 사용하여 분류 : [IMDB 예제]()
