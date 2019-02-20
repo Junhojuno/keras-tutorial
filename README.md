@@ -6,10 +6,10 @@
   - Regression : [보스턴 주택가격 예제](https://github.com/Junhojuno/keras-tutorial/blob/master/03_regression.ipynb)
   
 ### 5장 : 컴퓨터 비전을 위한 딥러닝 + 소규모 데이터셋으로 성능 높이기(25000 --> 2000)
-  - Small Dataset(1) : [그냥 CNN](https://github.com/Junhojuno/keras-tutorial/blob/master/05_Convnet_with_small_data.ipynb)
-  - Small Dataset(2) : [Data Augmentation](https://github.com/Junhojuno/keras-tustorial/blob/master/05_Convnet_with_small_data_2.ipynb)
-  - Small + Pre-Trained Model : [VGG16](https://github.com/Junhojuno/keras-tutorial/blob/master/05_pretrained_network(VGG16).ipynb)
-  - Small + Pre-Trained Model + Fine-Tuning : [Fine-Tuning](https://github.com/Junhojuno/keras-tutorial/blob/master/05_fine_tuning.ipynb)
+  - Small Dataset(그냥 CNN) : [cat and dogs 예제](https://github.com/Junhojuno/keras-tutorial/blob/master/05_Convnet_with_small_data.ipynb)
+  - Small Dataset(CNN + Data Augmentation) : [cat and dogs 예제](https://github.com/Junhojuno/keras-tustorial/blob/master/05_Convnet_with_small_data_2.ipynb)
+  - Small + Pre-Trained Model(VGG16) : [cat and dogs 예제](https://github.com/Junhojuno/keras-tutorial/blob/master/05_pretrained_network(VGG16).ipynb)
+  - Small + Pre-Trained Model(VGG16) + Fine-Tuning : [cat and dogs 예제](https://github.com/Junhojuno/keras-tutorial/blob/master/05_fine_tuning.ipynb)
   
 ### 6장 : 시퀀스 데이터를 위한 딥러닝
   - FCN으로 텍스트 분류 : [IMDB 예제]()
