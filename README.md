@@ -19,3 +19,5 @@
   - Staking RNN : [Jena Climate 예제]()
   - Bidirectional RNN : [IMDB 예제]()
   - 1D ConvNet : [IMDB 예제]()
+  - CNN + RNN : [IMDB 예제]()
+  - 6장 정리 : [Summary]()
